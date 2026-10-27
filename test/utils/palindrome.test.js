@@ -1,10 +1,13 @@
-const isPlaindrome = require('./palindrome');
+const isPalindrome = require('../../src/palindrome')
 
 test('returns true for a strandard single-word palindrome', () => {
-    expect(isPlaindrome('racecar')).toBe(true);
+    expect(isPalindrome('racecar')).toBe(true);
 });
 
 test('returns true for a complex palindrom sentence ignroing case and spaces', () => {
-    expect(isPlaindrome('A man, a plan, a canal: Panama')).toBe(true);
-}
-);
+    expect(isPalindrome('A man, a plan, a canal: Panama')).toBe(true);
+});
+
+test('returns false for a non-palindrome word', () => {
+    expect(isPalindrome('hello')).toBe(false);
+});
