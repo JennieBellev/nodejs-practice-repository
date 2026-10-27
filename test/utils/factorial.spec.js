@@ -1,6 +1,6 @@
 /**
- * Author: Professor Krasso
- * Date: 13 September 2024
+ * Author: Jennie Snyder
+ * Date: 27 October 2026
  * File: factorial.spec.js
  * Description: This script tests the factorial function.
  */
