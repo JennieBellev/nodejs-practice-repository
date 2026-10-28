@@ -2,7 +2,7 @@
  * Author: Jennie Snyder
  * Date: 27 October 2026
  * File: factorial.spec.js
- * Description: This script tests the factorial function.
+ * Description: Implementation of a factorial function.
  */
 'use strict';
 
