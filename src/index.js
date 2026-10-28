@@ -1,6 +1,6 @@
 /**
- * Author: Jennie Snyder
- * Date: 27 October 2026
+ * Author: Professor Krasso
+ * Date: 13 September 2024
  * File: index.js
  * Description: This script is the main entry point for the
  */

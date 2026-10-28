@@ -1,8 +1,8 @@
 /**
- * Author: Jennie Snyder
- * Date: 27 October 2026
+ * Author: Professor Krasso
+ * Date: 13 September 2024
  * File: factorial.js
- * Description: Implementation of a palindrome check function
+ * Description: This script calculates the factorial of a number
  */
 'use strict';
 
